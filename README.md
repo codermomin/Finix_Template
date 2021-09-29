@@ -1,2 +1,2 @@
-# Finix_Template
+# finix_template
 Added
